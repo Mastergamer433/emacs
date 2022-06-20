@@ -1,1 +1,1 @@
-(load-theme 'doom-palenight t)
+(load-theme 'doom-dracula t)
